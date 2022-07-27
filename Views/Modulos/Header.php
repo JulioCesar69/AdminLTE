@@ -22,7 +22,7 @@
                    <li class="dropdown user user-menu">
                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                            <img src="Assets/Images/default.png" class="user-image" alt="User Image">
-                           <span class="hidden-xs">Alexander Pierce</span>
+                           <span class="hidden-xs">Julio Cesar</span>
                        </a>
                        <ul class="dropdown-menu">
                            <!-- User image -->
@@ -30,7 +30,7 @@
                                <img src="Assets/Images/default.png" class="img-circle" alt="User Image">
 
                                <p>
-                                   luis orlando
+                                   Julio Cesar
                                    <small>Member since Nov. 2012</small>
                                </p>
                            </li>

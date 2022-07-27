@@ -36,7 +36,6 @@
     <?php include "Modulos/Menu.php";?>
   <!-- =============================================== -->
   <!-- Content Wrapper. Contains page content -->
-  <div class="content-wrapper">
     <?php      
       if(isset($_GET["pagina"])){
         if($_GET["pagina"]=="usuarios" || $_GET["pagina"]=="roles"){
@@ -44,8 +43,6 @@
         }
       }
     ?>
-
-  </div>
   <!-- /.content-wrapper -->
 
   <?php include "Modulos/Footer.php";?>

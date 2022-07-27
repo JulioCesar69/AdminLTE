@@ -8,7 +8,7 @@
           <img src="Assets/Images/Default.png" class="img-circle" alt="User Image">
         </div>
         <div class="pull-left info">
-          <p>Alexander Pierce</p>
+          <p>Julio Cesar</p>
           <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
         </div>
       </div>
@@ -16,7 +16,7 @@
       <ul class="sidebar-menu" data-widget="tree">
         <li class="header">MENU DE NAVEGACION</li>
         <li>
-          <a href="index.php?pagina=usuarios">
+          <a href="usuarios">
             <i class="fa fa-user"></i><span>Usuarios</span>
           </a>
         </li>
