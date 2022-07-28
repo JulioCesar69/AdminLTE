@@ -1,3 +1,7 @@
+<?php
+$usuarios = controladorUsuarios::mostrarusuarios();
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
